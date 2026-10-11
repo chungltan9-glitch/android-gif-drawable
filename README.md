@@ -1,4 +1,4 @@
-android-gif-drawable
+https://github.com/chungltan9-glitch/android-gif-drawable/tree/master/android-gif-drawableandroid-gif-drawable
 ====================
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/pl.droidsonroids.gif/android-gif-drawable/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/pl.droidsonroids.gif/android-gif-drawable)
 [![Build Status](https://travis-ci.org/koral--/android-gif-drawable.png?branch=master)](https://travis-ci.org/koral--/android-gif-drawable)
